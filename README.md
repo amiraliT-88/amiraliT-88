@@ -1,4 +1,6 @@
 
+![Header GIF](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
+
 ## 👨‍💻 About Me
 - 🚀 **Senior Python Developer**  
 - ☕ **Intermediate Java Developer**  
@@ -42,8 +44,10 @@
 
 ---
 
-## 🎯 Fun / Achievements  
-🎮 Minecraft Plugin Developer    
+## 🎯 Fun / Achievements
+🌟 Contributed to 10+ Open Source Projects  
+🎮 Minecraft Plugin Developer  
+☕ Coffee Lover & Night Coder  
 💡 Always Exploring New Tech
 
 ---
