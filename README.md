@@ -1,4 +1,3 @@
-# ​ Welcome to My GitHub
 
 ## ​​​ About Me
 - 🚀 **Senior Python Developer**
@@ -30,17 +29,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/amiraliT-88)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/329074520784764930)
-
----
-
-✨ *Always learning, always building!* ✨![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURPROFILE)  
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/329074520784764930)  
 
 ---
 
