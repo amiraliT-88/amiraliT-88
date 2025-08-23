@@ -1,8 +1,9 @@
 
-## ​​​ About Me
-- 🚀 **Senior Python Developer**
-- ☕ **Intermediate Java Developer**
-- 🌐 **Junior Web Developer & Game Scripter**
+
+## 👨‍💻 About Me
+- 🚀 **Senior Python Developer**  
+- ☕ **Intermediate Java Developer**  
+- 🌐 **Junior Web Developer & Game Scripter**  
 
 💻 Passionate about **coding, automation, and software development**  
 🔧 Skilled in **scripting, backend logic, and server management**  
@@ -28,17 +29,18 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ### 🎮 Game Development
-[![Minecraft](https://img.shields.io/badge/Minecraft-47A248?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
-[![Game Scripting](https://img.shields.io/badge/Game_Scripting-9B59B6?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![Minecraft](https://img.shields.io/badge/Minecraft-47A248?style=for-the-badge)](https://www.minecraft.net/)
+[![Game Scripting](https://img.shields.io/badge/Game_Scripting-9B59B6?style=for-the-badge)](https://unity.com/)
+
 ---
 
-## ​ GitHub Stats
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amiraliT-88&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiraliT-88&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiraliT-88&layout=compact&theme=radical)
 
 ---
 
-## ​ Connect with Me
+## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/amiraliT-88)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/329074520784764930)
