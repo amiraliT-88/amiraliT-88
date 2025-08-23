@@ -1,4 +1,4 @@
-
+# 🚀 Welcome to My GitHub
 
 ## 👨‍💻 About Me
 - 🚀 **Senior Python Developer**  
@@ -8,7 +8,9 @@
 💻 Passionate about **coding, automation, and software development**  
 🔧 Skilled in **scripting, backend logic, and server management**  
 🌍 Exploring **modern web technologies & cross-platform development**  
-📩 Open to **collaborations, freelance projects, and innovative ideas**
+📩 Open to **collaborations, freelance projects, and innovative ideas**  
+
+✨ *"Always learning, always building!"*  
 
 ---
 
@@ -36,15 +38,22 @@
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amiraliT-88&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiraliT-88&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiraliT-88&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amiraliT-88&theme=radical)
+
+---
+
+## 🚀 Featured Projects
+[![Project1](https://img.shields.io/badge/Project1-View-green?style=for-the-badge)](https://github.com/amiraliT-88/project1)  
+[![Project2](https://img.shields.io/badge/Project2-View-blue?style=for-the-badge)](https://github.com/amiraliT-88/project2)
 
 ---
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/amiraliT-88)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/329074520784764930)
 
 ---
 
-✨ *Always learning, always building!* ✨
+## 🎯 Fun / Personal Touch
+🎮 Minecraft Lover | ☕ Coffee Enthusiast | 📚 Lifelong Learner | 💡 Always Exploring New Tech
