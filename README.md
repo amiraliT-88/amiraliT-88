@@ -45,7 +45,6 @@
 ---
 
 ## 🎯 Fun / Achievements
-🌟 Contributed to 10+ Open Source Projects  
 🎮 Minecraft Plugin Developer  
 ☕ Coffee Lover & Night Coder  
 💡 Always Exploring New Tech
