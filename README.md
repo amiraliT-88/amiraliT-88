@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Amirali 👋</h1>
-  <h3>Software & Server-Side Developer | Python & Java</h3>
-  <p><i>Building robust server utilities, automating processes, and crafting clean code.</i></p>
+  <h3>Software Developer | Python, Java & Node.js</h3>
+  <p><i>Building backend logic, crafting web tools, and developing game plugins.</i></p>
 
   <p>
     <a href="https://github.com/amiraliT-88"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -13,20 +13,24 @@
 
 ## 👨‍💻 About Me
 
-I specialize in **server-side logic, infrastructure automation, and game development**. With a strong focus on Python and Java, I build scalable server utilities, design automated workflows, and develop custom game plugins.
+I am a developer who enjoys building systems from the ground up. Whether it's writing server-side logic, working with modern web technologies, or developing custom game experiences, I love turning ideas into clean code.
 
-- 🚀 **Core Focus:** Server Administration & System Automation.
-- 🎮 **Game Dev:** Custom Minecraft plugins & advanced server logic.
+- 🚀 Core Focus: Backend logic, automation, and full-stack side projects.
+- 🎮 Minecraft Dev: Creating custom plugins and optimizing server logic.
 - 📩 Always open to interesting collaborations, freelance projects, and technical challenges.
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+**Languages & Web:** ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & Environments:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Frameworks & Environments:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-47A248?style=for-the-badge&logo=minecraft&logoColor=white)
 
 ---
 
