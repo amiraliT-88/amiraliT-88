@@ -24,13 +24,6 @@ I am a passionate developer with a strong focus on **backend logic, automation, 
 
 ---
 
-## 🚀 Featured Projects
-
-*اینجا می‌توانید پروژه‌های اصلی خود را لینک کنید. مثلاً:*
-
-- **[Discord Server Manager Bot](#)** - A feature-rich Discord bot built with Python for server management and automation.
-- **[Custom Minecraft Plugin](#)** - Java-based plugin enhancing gameplay mechanics and server economy.
-- **[Project Name 3](#)** - Brief description of what it does and the tech stack used.
 
 ---
 
