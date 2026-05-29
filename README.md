@@ -34,7 +34,7 @@ I specialize in **backend logic, automation, and game development**. With a stro
 ## 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiraliT-88&show_icons=true&theme=radical&hide_border=true" alt="Amirali's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=amiraliT-88&show_icons=true&theme=radical&hide_border=true" alt="Amirali's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraliT-88&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amiraliT-88&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
