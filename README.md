@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Amirali</h1>
+  <h1>Hi, I'm Amirali 👋</h1>
   <p><b>Software Developer | Python • Java • Node.js</b></p>
   <p><i>Building robust backends, web tools, and custom game plugins.</i></p>
   
@@ -15,9 +15,10 @@
 
 I am a developer focused on building systems from the ground up. I specialize in backend logic, automation, and full-stack projects, with a strong interest in crafting clean and efficient code.
 
-- **Core Focus:** Backend architecture, automation scripts, and full-stack development.
-- **Minecraft Development:** Architecting custom plugins and optimizing server-side logic.
-- **Availability:** Open to technical challenges, freelance projects, and collaborations.
+- 🔭 **Currently working on:** Developing **OpenLPX** and maintaining the **Pixel MC** server infrastructure.
+- 🌱 **Focusing on:** Advanced Linux server administration and backend architecture.
+- 💬 **Ask me about:** Java, Python, and architecting custom Minecraft plugins.
+- 📫 **Reach out:** Always open to technical challenges and freelance collaborations.
 
 ---
 
