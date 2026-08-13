@@ -33,6 +33,6 @@ I specialize in building systems from the ground up, turning complex ideas into 
 ### 📊 Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiraliT-88&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraliT-88&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=amiraliT-88&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amiraliT-88&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages" />
 </p>
