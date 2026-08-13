@@ -13,12 +13,12 @@
 
 ### About Me
 
-I am a developer focused on building systems from the ground up. I specialize in backend logic, automation, and full-stack projects, with a strong interest in crafting clean and efficient code.
+I am a developer focused on building systems from the ground up. Whether it's backend logic, web tools, or tuning game servers, I enjoy turning ideas into clean and efficient code.
 
-- 🔭 **Currently working on:** Developing **OpenLPX** and maintaining the **Pixel MC** server infrastructure.
-- 🌱 **Focusing on:** Advanced Linux server administration and backend architecture.
-- 💬 **Ask me about:** Java, Python, and architecting custom Minecraft plugins.
-- 📫 **Reach out:** Always open to technical challenges and freelance collaborations.
+- 🔭 **Currently working on:** Backend logic, automation scripts, and full-stack side projects.
+- 🌱 **Focusing on:** Creating custom Minecraft plugins and optimizing server-side logic.
+- 💬 **Ask me about:** Python, Java, and Node.js development.
+- 📫 **Reach out:** Always open to interesting collaborations, freelance projects, and technical challenges.
 
 ---
 
