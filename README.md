@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Hi, I'm Amirali 👋</h2>
-  <p><b>Software Developer</b></p>
-  <p>Building robust backends, scalable web tools, and custom game mechanics.</p>
+  <p><b>Software & Systems Developer</b></p>
+  <p>Building robust backends, performance-tuned systems, and custom developer tools.</p>
   
   <p>
     <a href="https://github.com/amiraliT-88" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -11,26 +11,39 @@
 
 <br/>
 
-### 👨‍💻 About
-I specialize in building systems from the ground up, turning complex ideas into clean, maintainable code. My core expertise lies in backend architecture, automation, and expanding game server capabilities.
+### 👨‍💻 About Me
+I focus on low-level performance, backend architecture, and building efficient developer tooling. I enjoy diving into runtime internals, memory optimization, and crafting interactive terminal applications.
 
-* **Engineering:** Backend logic, automation scripting, and full-stack side projects.
-* **Game Dev:** Architecting custom Minecraft plugins and optimizing server-side performance.
-* **Status:** Open to technical challenges, freelance opportunities, and collaborative projects.
+* **🛠️ Systems & Tooling:** JVM performance tuning, TUI utilities, and system automation.
+* **🌐 Backend Engineering:** Scalable services, REST APIs, and clean software architecture.
+* **🎮 Game Server Architecture:** Low-latency server tuning and custom game mechanics.
+* **📫 Status:** Open to technical challenges, open-source collaborations, and exciting projects.
+
+<br/>
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| ⚡ **[TachyonVM](https://github.com/amiraliT-88/TachyonVM)** | `OpenJDK 25` `C++` `JVM` | Low-latency, aggressive compiler & GC tuned OpenJDK fork for high-performance servers. |
+| 🧹 **[DevSweeper](https://github.com/amiraliT-88/DevSweeper)** | `Go` `Bubble Tea` `TUI` | Fast, interactive terminal tool for scanning and purging developer caches and system junk. |
+| 🗺️ **[BFS Visualizer](https://github.com/amiraliT-88/BFS)** | `Python` `Pygame` | Interactive graph pathfinding visualizer mapped across Iranian cities. |
 
 <br/>
 
 ### ⚡ Tech Stack
 
-**Languages & Backend**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-**Frontend & Tools**<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+**Languages & Systems**<br/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <br/>
 
-### 📊 Analytics
+**Platforms & Tools**<br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<br/>
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=amiraliT-88&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub Stats" />
