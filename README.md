@@ -12,22 +12,12 @@
 <br/>
 
 ### 👨‍💻 About Me
-I focus on low-level performance, backend architecture, and building efficient developer tooling. I enjoy diving into runtime internals, memory optimization, and crafting interactive terminal applications.
+I focus on low-level performance, backend architecture, and building efficient developer tooling. I enjoy diving into runtime internals, memory optimization, and crafting interactive applications.
 
 * **🛠️ Systems & Tooling:** JVM performance tuning, TUI utilities, and system automation.
 * **🌐 Backend Engineering:** Scalable services, REST APIs, and clean software architecture.
 * **🎮 Game Server Architecture:** Low-latency server tuning and custom game mechanics.
 * **📫 Status:** Open to technical challenges, open-source collaborations, and exciting projects.
-
-<br/>
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| ⚡ **[TachyonVM](https://github.com/amiraliT-88/TachyonVM)** | `OpenJDK 25` `C++` `JVM` | Low-latency, aggressive compiler & GC tuned OpenJDK fork for high-performance servers. |
-| 🧹 **[DevSweeper](https://github.com/amiraliT-88/DevSweeper)** | `Go` `Bubble Tea` `TUI` | Fast, interactive terminal tool for scanning and purging developer caches and system junk. |
-| 🗺️ **[BFS Visualizer](https://github.com/amiraliT-88/BFS)** | `Python` `Pygame` | Interactive graph pathfinding visualizer mapped across Iranian cities. |
 
 <br/>
 
