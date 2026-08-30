@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>Hi, I'm Amirali 👋</h2>
-  <p><b>Software Developer</b></p>
-  <p>Building robust backends, scalable web tools, and custom game mechanics.</p>
+  <h2>Hi, I'm Amirali</h2>
+  <p><b>Backend & Systems Developer</b></p>
+  <p>Focused on backend engineering, runtime performance, and low-latency infrastructure.</p>
   
   <p>
     <a href="https://github.com/amiraliT-88" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -11,28 +11,21 @@
 
 <br/>
 
-### 👨‍💻 About
-I specialize in building systems from the ground up, turning complex ideas into clean, maintainable code. My core expertise lies in backend architecture, automation, and expanding game server capabilities.
+### About Me
+I am a software developer focused on backend systems, runtime optimization, and developer tooling. I enjoy working on low-latency servers, concurrency, memory efficiency, and custom infrastructure.
 
-* **Engineering:** Backend logic, automation scripting, and full-stack side projects.
-* **Game Dev:** Architecting custom Minecraft plugins and optimizing server-side performance.
-* **Status:** Open to technical challenges, freelance opportunities, and collaborative projects.
-
-<br/>
-
-### ⚡ Tech Stack
-
-**Languages & Backend**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-**Frontend & Tools**<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+* **Backend & Systems:** Concurrency, performance tuning, and CLI developer tools.
+* **Game Server Infrastructure:** High-throughput server architectures, custom event loops, and tick latency tuning.
+* **Open Source:** Building and contributing to practical utilities and performance tooling.
 
 <br/>
 
-### 📊 Analytics
+### Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=amiraliT-88&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amiraliT-88&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages" />
-</p>
+**Languages**<br/>
+<a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a> <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="https://openjdk.org/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a> <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /></a>
+
+<br/><br/>
+
+**Platforms & Infrastructure**<br/>
+<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a> <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a> <a href="https://nginx.org/" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logoColor=white" alt="MySQL" /></a> <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a> <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
